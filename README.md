@@ -1,4 +1,4 @@
-# Haiku-Generator
+# Haiku Generator
 Creates random haikus using Markov chains and web-scraping. This is intended to be a birthday present for a friend of mine.
 
 ## Files
