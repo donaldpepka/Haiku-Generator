@@ -1,7 +1,7 @@
 # Haiku-Generator
 Creates random haikus using Markov chains and web-scraping. This is intended to be a birthday present for a friend of mine.
 
-# Files
+## Files
 
 EditVocabulary.py: Cleans text within the vocabulary csv.
 
